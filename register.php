@@ -6,14 +6,14 @@
                 <th>Answer</th>
             </tr>
             <tr>
-                
-                <td> <input type="text" name="name" value="trinity"> </td>
+                <td> Name: </td>
+                <td> <input type="text" name="name" value="john"> </td>
             </tr>
             <tr>
                 <td> Gender: </td>
                 <td>
-                    <input type="radio" name="gender" value="male" > Male
-                    <input type="radio" name="gender" value="female"checked> Female
+                    <input type="radio" name="gender" value="male" checked> Male
+                    <input type="radio" name="gender" value="female"> Female
                 </td>
             </tr>
             <tr>
